@@ -2,4 +2,4 @@
 Inner host resources for http usage
 
 ## 图片地址前辍
-http://blog.saick.net/HostedResources/Images
+http://blog.8844th.ink/HostedResources/Images
